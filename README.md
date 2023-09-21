@@ -44,4 +44,4 @@ For inquiries, reach out to sumantkale1999@gmail.com.
 
 
 
-Feel free to explore and adapt the code to your needs. If you have questions or suggestions, create an issue or contact [your-email@example.com](mailto:your-email@example.com).
+Feel free to explore and adapt the code to your needs. If you have questions or suggestions, create an issue or contact [sumantkale1999@gmail.com](mailto:sumantkale1999@gmail.com).
